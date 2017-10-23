@@ -1,0 +1,15 @@
+platform :ios,'8.0'
+use_frameworks!
+inhibit_all_warnings!
+install! 'cocoapods', :deterministic_uuids => false
+
+target 'ImagesVideoAudio' do
+pod 'Kingfisher'
+pod 'Alamofire'
+
+#通过网页实时查看沙盒环境
+pod 'GCDWebServer/WebUploader'
+end
+
+
+

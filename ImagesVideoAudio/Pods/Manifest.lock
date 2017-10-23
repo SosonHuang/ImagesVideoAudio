@@ -1,0 +1,22 @@
+PODS:
+  - Alamofire (4.5.1)
+  - GCDWebServer/Core (3.4.1)
+  - GCDWebServer/WebUploader (3.4.1):
+    - GCDWebServer/WebUploader/Core (= 3.4.1)
+  - GCDWebServer/WebUploader/Core (3.4.1):
+    - GCDWebServer/Core
+  - Kingfisher (4.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - GCDWebServer/WebUploader
+  - Kingfisher
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  GCDWebServer: 1db60034fe0e78a4a8524bd6c7cd97cd3c589870
+  Kingfisher: f14df8cbe576bf55f211fa589e9869bceb4ea87d
+
+PODFILE CHECKSUM: 8a739e3c7a04ec669c59470444d04d492c42822f
+
+COCOAPODS: 1.2.1

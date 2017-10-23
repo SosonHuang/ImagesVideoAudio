@@ -1,0 +1,6 @@
+framework module Pods_ImagesVideoAudio {
+  umbrella header "Pods-ImagesVideoAudio-umbrella.h"
+
+  export *
+  module * { export * }
+}
